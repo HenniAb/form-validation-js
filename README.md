@@ -3,7 +3,7 @@ Simple javascript form validation
 
 - Check length of input fields.
 - Check whether email is valid or not.
-- Both passwords should match.
+- Both passwords should match and strong. 
 
 ## 📌 Tech Stack 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
