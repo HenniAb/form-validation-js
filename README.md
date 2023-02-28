@@ -1,5 +1,5 @@
 # Form validation with JavaScript
-Simple Js form validation
+JavaScript form validation
 
 - Check length of input fields.
 - Check whether email is valid or not.
