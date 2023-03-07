@@ -1,4 +1,4 @@
-# Form validation with JavaScript
+# Form validation with JS
 JavaScript form validation
 
 - Check length of input fields.
